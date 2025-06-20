@@ -47,7 +47,7 @@ Unlock Neural Filters in Adobe CC to access powerful AI tools like skin smoothin
 ### 🖼 Preview
 
 Neural Filters panel active in Adobe Photoshop CC  
-![Screenshot](PLACE_YOUR_IMAGE_LINK_HERE)  
+![Screenshot](https://www.computerhope.com/jargon/p/photoshop-neural-filters-1.jpg)  
 *AI-powered retouching at your fingertips*
 
 ---
